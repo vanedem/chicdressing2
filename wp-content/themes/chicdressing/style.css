@@ -98,9 +98,11 @@ body .header-logo a{
 #featured-slider{
     margin-bottom:30px;
 }
+
 #chic-products{
     padding:0 40px;
 }
+
 .chic-title{
     font-family: 'Kalam';
     font-size: 52px;
@@ -112,6 +114,7 @@ body .header-logo a{
     color: #9d4c64 !important;
     line-height: 48px;
 }
+
 #chic-products ul.products li.product{
     background: #f6f6f6;
     padding-bottom: 20px;
