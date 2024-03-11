@@ -5,7 +5,7 @@ WP-Cache Config Sample File
 See wp-cache.php for author details.
 */
 
-$wp_cache_home_path = '/chicdressing/';
+$wp_cache_home_path = '/chicdressing2/';
 $wp_cache_slash_check = 1;
 $cache_page_secret = 'ec3e9e37bd2c4a1aebc67ce2e3cc77ac';
 $cache_time_interval = 600;
@@ -82,14 +82,14 @@ $wp_cache_clear_on_post_edit = 1;
 $wp_cache_hello_world = 0;
 $wp_cache_mobile_enabled = 0;
 $wp_cache_cron_check = 0;
-$wp_cache_mfunc_enabled = 0;
+$wp_cache_mfunc_enabled = 1;
 $wp_cache_make_known_anon = 0;
 $wp_cache_refresh_single_only = 0;
 $wp_cache_mod_rewrite = 0;
-$wp_supercache_304 = 0;
+$wp_supercache_304 = 1;
 $wp_cache_front_page_checks = 0;
 $wp_cache_disable_utf8 = 0;
-$wp_cache_no_cache_for_get = 0;
+$wp_cache_no_cache_for_get = 1;
 $cache_scheduled_time = "00:00";
 $wp_cache_preload_interval = 600;
 $cache_schedule_type = 'interval';
